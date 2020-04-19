@@ -1,6 +1,6 @@
 ---
 title: "First"
-author: "Susheel"
+author: "Maria G"
 date: "4/19/2020"
 output:
   html_document:
@@ -8,4 +8,8 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### This is a markdown file
